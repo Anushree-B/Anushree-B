@@ -36,14 +36,14 @@ How does AI's fake image process work
 - **LinkedIn**: [Anushree's LinkedIn](https://www.linkedin.com/in/anushree-b/)
 - **Twitter**: [@Anushree_B](https://twitter.com/Anushree_B)
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree-B&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushree-B&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-B&layout=compact&theme=radical)
-
+-->
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Let's make something amazing together!
