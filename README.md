@@ -1,11 +1,11 @@
 # Hi there, I'm Anushree! 👋
 
-Welcome to my GitHub profile! I'm a Computer Science graduate with a stellar 9.97 CGPA, currently pursuing my Masters in Data Science. My journey in tech has been fueled by a deep passion for data-driven problem-solving, machine learning, and web development.
+Welcome to my GitHub profile! I'm a Computer Science graduate with a stellar 9.93 CGPA, currently pursuing my Masters in Data Science. My journey in tech has been fueled by a deep passion for data-driven problem-solving, machine learning, and web development.
 
 ## 🌟 About Me
 
 - 🎓 **Education**: BSc in Computer Science | Currently pursuing Masters in Data Science
-- 🏆 **CGPA**: 9.97
+- 🏆 **CGPA**: 9.93
 - 💻 **My portfolio** :  [Portfolio](https://anushree-b.github.io./)
 - 🌐 **Ask me about** : Data Science, ML, DL, NLP
 - 💃 **Hobbies**: Bharatnatyam dance, continuous learning, and exploring new horizons
@@ -39,6 +39,8 @@ How does AI's fake image process work
 ## 📈 GitHub Stats
 
 ![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree-B&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushree-B&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-B&layout=compact&theme=radical)
 
