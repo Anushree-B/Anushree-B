@@ -32,9 +32,7 @@ How does AI's fake image process work
 
 ## 🌐 Let's Connect
 
-- **Website**: [Anushree's Portfolio](https://anushree-b.github.io./)
 - **LinkedIn**: [Anushree's LinkedIn](https://www.linkedin.com/in/anushree-b/)
-- **Twitter**: [@Anushree_B](https://twitter.com/Anushree_B)
 
 <!--## 📈 GitHub Stats
 
