@@ -22,7 +22,7 @@ An innovative project that enables cursor control using hand gesture recognition
 ### [MathTalk](https://github.com/Anushree-B/mathtalk)
 Converts spoken mathematical expressions into symbolic equations using speech recognition technology. Leveraging libraries such as `pandas`, `numpy`, `speech_recognition`, `re`, and `streamlit`, with data scraped from Byju's website.
 
-## 📋 Explore my bloga
+## 📋 Explore my blogs
 
 ### [Overcoming challenges on imbalanced datasets](https://medium.com/@anushreebhuskute/overcoming-challenges-in-imbalanced-datasets-6a1494d08f55)
 Exploring different methods to balance data
