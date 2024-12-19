@@ -13,14 +13,14 @@ Welcome to my GitHub profile! I'm a Computer Science graduate with a stellar 9.9
 
 ## 💻 Projects
 
+### [MathTalk](https://github.com/Anushree-B/mathtalk)
+Converts spoken mathematical expressions into symbolic equations using speech recognition technology. Leveraging libraries such as `pandas`, `numpy`, `speech_recognition`, `re`, and `streamlit`, with data scraped from Byju's website.
+
 ### [Lie Detector](https://github.com/Anushree-B/lie-detector)
 A Streamlit-based application that predicts the truthfulness of a sentence using a machine learning model.
 
 ### [Cursor Control with Hand Gestures](https://github.com/Anushree-B/Cursor-control---mini-project)
 An innovative project that enables cursor control using hand gesture recognition.
-
-### [MathTalk](https://github.com/Anushree-B/mathtalk)
-Converts spoken mathematical expressions into symbolic equations using speech recognition technology. Leveraging libraries such as `pandas`, `numpy`, `speech_recognition`, `re`, and `streamlit`, with data scraped from Byju's website.
 
 ## 📋 Explore my blogs
 
