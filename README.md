@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Computer Science graduate with a stellar 9.9
 ### [Lie Detector](https://github.com/Anushree-B/lie-detector)
 A Streamlit-based application that predicts the truthfulness of a sentence using a machine learning model.
 
-### [Cursor Control with Hand Gestures](https://github.com/Anushree-B/cursor-control)
+### [Cursor Control with Hand Gestures](https://github.com/Anushree-B/Cursor-control---mini-project)
 An innovative project that enables cursor control using hand gesture recognition.
 
 ### [MathTalk](https://github.com/Anushree-B/mathtalk)
